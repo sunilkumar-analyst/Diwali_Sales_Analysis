@@ -91,8 +91,7 @@ sns.barplot(x='Gender', y='Amount', data=sales_gen)
 ________________________________________
 ⭐ **How to Run the Project**
 1.	Clone the repository
-git clone https://github.com/your-username/diwali-sales-analysis.git
-2.	Install dependencies
+git clone https://github.com/your-usernamesunilkumar_analyst/Diwali_Sales_Analysis.git
 pip install pandas numpy matplotlib seaborn
 3.	Run the Jupyter Notebook
 ________________________________________
